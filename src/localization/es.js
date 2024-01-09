@@ -1,5 +1,5 @@
 export default {
-  appName: 'Ona Pics',
+  appName: 'RnBoilerplate',
   actions: {
     loading: 'Cargando',
     next: 'Siguiente',

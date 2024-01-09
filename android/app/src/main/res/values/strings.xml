@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Jmzp RN-Boilerplate</string>
+    <string name="app_name">RnBoilerplate</string>
     <color name="ic_launcher_background">#000000</color>
 </resources>

@@ -1,4 +1,4 @@
-# Dysmorphia App
+# React Native Boilerplate
 
 ## Base Template
 
@@ -38,6 +38,7 @@ This template follows a very simple project structure:
   - `components`: Folder to store any common component that you use through your app (such as a generic button)
   - `constants`: Folder to store any kind of constant that you have.
   - `hooks`: Folder to store custom hooks.
+  - `utils`: Folder to store mix of utils functions.
   - `localization`: Folder to store the languages files.
   - `navigation`: Folder to store the navigators.
   - `screens`: Folder that contains all your application screens/features.
